@@ -25,11 +25,11 @@ i:hover {
   color: #FCF8E8;
 }
 
-/* index.html */
+/* index */
 .top-container {
   background-size: cover;
   background-position: center;
-  height: 800px;
+  height: 400px;
 }
 
 .title-area {
@@ -53,7 +53,7 @@ i:hover {
 }
 
 .contact-link {
-  margin-top: 250px;
+  margin-top: 50px;
   text-align: center;
 }
 
@@ -64,21 +64,14 @@ i:hover {
   font-size: 1.0em;
 }
 
-.copyright {
-  margin-top: 50px;
-  text-align: center;
-  font-size: 10px;
-  color: grey;
-}
-
-/* about.html */
+/* about */
 .divider {
   width: 10%;
   border-width: 5px;
   color: grey;
 }
 
-#skill_icon:hover {
+.skill_icon:hover {
   color: #DFD3C3;
 }
 
@@ -119,7 +112,17 @@ i:hover {
   margin-right: auto;
 }
 
-/*contact.html*/
-#contact {
-  margin-left: auto;
+/*contact*/
+.bottom-container {
+  margin-top: 50px;
+  text-align: center;
+  height: 250px;
+  padding: 2% 0%
+}
+
+.copyright {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 10px;
+  color: grey;
 }
